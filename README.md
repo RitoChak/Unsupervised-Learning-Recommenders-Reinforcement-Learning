@@ -11,6 +11,8 @@ This repository contains all the optional and practice labs as well as the assig
 
 <br/>
 
-- [Week 2 :]
+- [Week 2 :](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/0853f063c1091dd30fc187687c73335b7ec7922c/Week%202)
   - [Collaborative Filtering Recommender Systems](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/5631c8d920ad6d8bfa2ead998efdf114986dd464/Week%202/Collaborative%20Filtering%20Recommender%20Systems)
     - [Programming Assignment: Collaborative Filtering Recommender Systems](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/5631c8d920ad6d8bfa2ead998efdf114986dd464/Week%202/Collaborative%20Filtering%20Recommender%20Systems/C3_W2_Collaborative_RecSys_Assignment.ipynb)
+  - [Content Based Filtering](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/0853f063c1091dd30fc187687c73335b7ec7922c/Week%202/Content%20Based%20Filtering)
+    - [Programming Assignment: Deep Learning for Content-Based Filtering](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/0853f063c1091dd30fc187687c73335b7ec7922c/Week%202/Content%20Based%20Filtering/C3_W2_RecSysNN_Assignment.ipynb)
