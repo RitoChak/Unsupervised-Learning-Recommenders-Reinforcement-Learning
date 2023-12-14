@@ -18,3 +18,18 @@ This repository contains all the optional and practice labs as well as the assig
     - [Programming Assignment: Deep Learning for Content-Based Filtering](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/0853f063c1091dd30fc187687c73335b7ec7922c/Week%202/Content%20Based%20Filtering/C3_W2_RecSysNN_Assignment.ipynb)
   - [Pricipal Component Analysis](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/47bf1d0bb98c5daf1a57264111e1fe7d33ded5f4/Week%202/PCA)
     - [PCA and data visualization (optional)](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/47bf1d0bb98c5daf1a57264111e1fe7d33ded5f4/Week%202/PCA/C3_W2_Lab01_PCA_Visualization_Examples.ipynb)
+
+
+<br/>
+
+- [Week 3 :](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/5bd05a93f6061c7979d55ebe6ea1c9bc344c0b4f/Week%203)
+  - [Reinforcement Learning](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/5bd05a93f6061c7979d55ebe6ea1c9bc344c0b4f/Week%203/Reinforcement%20Learning)
+    - [Programming Assignment: Reinforcement Learning](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/5bd05a93f6061c7979d55ebe6ea1c9bc344c0b4f/Week%203/Reinforcement%20Learning/C3_W3_A1_Assignment.ipynb)
+  - [State-Action Value Function](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/tree/5bd05a93f6061c7979d55ebe6ea1c9bc344c0b4f/Week%203/State-action%20value%20function)
+    - [State-action value function (optional lab)](https://github.com/RitoChak/Unsupervised-Learning-Recommenders-Reinforcement-Learning/blob/5bd05a93f6061c7979d55ebe6ea1c9bc344c0b4f/Week%203/State-action%20value%20function/State-action%20value%20function%20example.ipynb)
+   
+<hr/>
+
+### Certificate Of Completion : [Click here](https://coursera.org/share/ce82274ff3b824a9d9f15bdbe9384806)
+
+<hr/>
